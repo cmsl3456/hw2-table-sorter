@@ -1,4 +1,4 @@
-window.onload = function()
+window.onload = function()                     //请加注释
 {
 	var tables = getAllTables();
 	makeAllTablesSortable(tables);
